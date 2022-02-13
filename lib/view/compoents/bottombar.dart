@@ -1,9 +1,9 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/esya_bul.dart';
-import 'package:flutter_fest/view/fon_page.dart';
-import 'package:flutter_fest/view/index.dart';
-import 'package:flutter_fest/view/profile_page.dart';
+import 'package:flutterr_fest/view/esya_bul.dart';
+import 'package:flutterr_fest/view/fon_page.dart';
+import 'package:flutterr_fest/view/index.dart';
+import 'package:flutterr_fest/view/profile_page.dart';
 
 class Bottombar extends StatelessWidget {
   final int indexmenu;

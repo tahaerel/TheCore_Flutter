@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/index.dart';
+import 'package:flutterr_fest/view/index.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'compoents/background.dart';
 import 'register.dart';

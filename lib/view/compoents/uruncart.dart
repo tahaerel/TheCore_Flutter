@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/compoents/textstyle.dart';
-import 'package:flutter_fest/view/detay_page.dart';
+import 'package:flutterr_fest/view/compoents/textstyle.dart';
+import 'package:flutterr_fest/view/detay_page.dart';
 
 class Urun extends StatelessWidget {
   final String id;

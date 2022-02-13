@@ -1,4 +1,4 @@
-import 'package:flutter_fest/entity/user.dart';
+import 'package:flutterr_fest/entity/user.dart';
 
 class UserPreferences {
   static const myUser = User(

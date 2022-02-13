@@ -1,9 +1,9 @@
 import 'package:fancy_snackbar/fancy_snackbar.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/entity/user.dart';
-import 'package:flutter_fest/entity/user_preferences.dart';
-import 'package:flutter_fest/view/compoents/appbar.dart';
-import 'package:flutter_fest/view/compoents/bottombar.dart';
+import 'package:flutterr_fest/entity/user.dart';
+import 'package:flutterr_fest/entity/user_preferences.dart';
+import 'package:flutterr_fest/view/compoents/appbar.dart';
+import 'package:flutterr_fest/view/compoents/bottombar.dart';
 import 'compoents/button_widget.dart';
 import 'compoents/profile_widget.dart';
 import 'compoents/textfield_widget.dart';

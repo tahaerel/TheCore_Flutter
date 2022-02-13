@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/compoents/appbar.dart';
-import 'package:flutter_fest/view/compoents/detay.dart';
+import 'package:flutterr_fest/view/compoents/appbar.dart';
+import 'package:flutterr_fest/view/compoents/detay.dart';
 
 class DetayPage extends StatelessWidget {
   final String title;

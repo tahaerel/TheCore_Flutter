@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/compoents/appbar.dart';
-import 'package:flutter_fest/view/compoents/bottombar.dart';
-import 'package:flutter_fest/view/compoents/button_widget.dart';
-import 'package:flutter_fest/view/compoents/profile_widget.dart';
+import 'package:flutterr_fest/view/compoents/appbar.dart';
+import 'package:flutterr_fest/view/compoents/bottombar.dart';
+import 'package:flutterr_fest/view/compoents/button_widget.dart';
+import 'package:flutterr_fest/view/compoents/profile_widget.dart';
 
 class kisi extends StatelessWidget {
   final String imagepath;

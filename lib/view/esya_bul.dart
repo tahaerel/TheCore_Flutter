@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/compoents/appbar.dart';
-import 'package:flutter_fest/view/compoents/background3.dart';
-import 'package:flutter_fest/view/compoents/bottombar.dart';
-import 'package:flutter_fest/view/compoents/drawer.dart';
-import 'package:flutter_fest/view/compoents/uruncart.dart';
+import 'package:flutterr_fest/view/compoents/appbar.dart';
+import 'package:flutterr_fest/view/compoents/background3.dart';
+import 'package:flutterr_fest/view/compoents/bottombar.dart';
+import 'package:flutterr_fest/view/compoents/drawer.dart';
+import 'package:flutterr_fest/view/compoents/uruncart.dart';
 
 class EsyaPage extends StatefulWidget {
   const EsyaPage({Key? key}) : super(key: key);
@@ -143,7 +143,7 @@ class _EsyaPageState extends State<EsyaPage> {
                         adres:
                             'denemedeneme mah deneme sok no deneme daire deneme',
                         category: 'Görme',
-                        title: 'deneme',
+                        title: 'Askılık',
                         ad: 'asdasd',
                         soyad: 'adas',
                         tel: 'asda',

@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/entity/user.dart';
-import 'package:flutter_fest/entity/user_preferences.dart';
-import 'package:flutter_fest/view/compoents/appbar.dart';
-import 'package:flutter_fest/view/compoents/bottombar.dart';
-import 'package:flutter_fest/view/compoents/drawer.dart';
+import 'package:flutterr_fest/entity/user.dart';
+import 'package:flutterr_fest/entity/user_preferences.dart';
+import 'package:flutterr_fest/view/compoents/appbar.dart';
+import 'package:flutterr_fest/view/compoents/bottombar.dart';
+import 'package:flutterr_fest/view/compoents/drawer.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';
 
 import 'compoents/button_widget.dart';
@@ -13,7 +13,6 @@ import 'compoents/profile_widget.dart';
 import 'edit_profile_page.dart';
 
 class ProfilePage extends StatefulWidget {
-  
   @override
   _ProfilePageState createState() => _ProfilePageState();
 }

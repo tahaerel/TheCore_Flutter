@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/compoents/kisi_cart.dart';
-import 'package:flutter_fest/view/compoents/uruncart.dart';
+import 'package:flutterr_fest/view/compoents/kisi_cart.dart';
+import 'package:flutterr_fest/view/compoents/uruncart.dart';
 
 import 'compoents/Drawer.dart';
 import 'compoents/appbar.dart';
@@ -37,8 +37,8 @@ class _fonPageState extends State<fonPage> {
                   children: [
                     Kisiler(
                       id: '10',
-                      category: 'Ortapedi',
-                      title: 'Yürüteç',
+                      category: 'Görme engelli',
+                      title: 'Onur Sarı',
                       ad: 'Onur',
                       soyad: 'Sarı',
                       mail: 'onurssari@gmail.com',
@@ -47,23 +47,24 @@ class _fonPageState extends State<fonPage> {
                       tel: '541 943 34 52',
                       duration: '10 ',
                       description:
-                          'Yürüteç veya yürüme çerçevesi, çoğunlukla yaşa bağlı fiziksel kısıtlamalar nedeniyle, yürürken denge veya dengeyi korumak için ek desteğe ihtiyaç duyan engelli veya zayıf insanlar için bir araçtır.',
+                          '1921 yılında trafik kazası geçirmesi nedeniyle görme yetisini kaybettim. Yeni çıkan teknolojiler sayesinde Deneysel tedavi keşfettim ve bunun için paraya ihtiyacım var lütfen bana yardımcı olur musunuz? ',
                       imagePath: 'https://i.hizliresim.com/gt2l085.jfif',
                     ),
                     Kisiler(
                       id: '11',
                       adres:
                           'Gaziosmanpaşa Mahallesi Selvi Sokak No:7 Daire:6 \n Eyüp/İstanbul',
-                      category: 'Taha Erel',
-                      title: 'Dilenci',
-                      ad: 'Taha',
-                      soyad: 'Erel',
-                      tel: '543 345 54 32',
+                      category: 'SMA hastası',
+                      title: 'Ayşe nur Elfida',
+                      ad: 'Ayşe Nur',
+                      soyad: 'Elfida',
+                      tel: '543 345 54 43',
                       duration: '60',
-                      imagePath: 'https://i.hizliresim.com/lqlcdik.png',
-                      description: '',
-                      mail:
-                          'Daha iyi bir modelini satın aldığım için bunu ihtiyacı olan birine bağışlamak istiyorum. Hiçbir  sorunu yoktur.',
+                      imagePath:
+                          'https://iyikigormusum.com/public/uploads/files/foto1(1).jpg',
+                      description:
+                          'Bilindiği gibi, SMA hastası çocukların tedavisi konusundaki sorunlar devam ediyor. Bu sorunların sosyal devlet ilkesi çerçevesinde, kapsayıcı bir biçimde çözümlenmesi için ivedilikle düzenlemeler yapılması gereklilik arz etmektedir. Bu konuda yetkililere yapılan çağrıların toplu şekilde, pek çok kuruluşun katılımı ile dile getirilmesi, çözüm beklentisinin dikkate alınması için çok önemlidir.',
+                      mail: ' aysenurelfida@gmail.com',
                     ),
                   ],
                 ),
@@ -76,30 +77,31 @@ class _fonPageState extends State<fonPage> {
                       id: '12',
                       adres:
                           'denemedeneme mah deneme sok no deneme daire deneme',
-                      category: 'İşitme',
-                      title: 'Kulaklık',
-                      ad: 'asdasd',
-                      soyad: 'adasd',
-                      tel: 'asdasd',
-                      duration: '700',
-                      mail: 'asda',
+                      category: 'İşitme Engelli',
+                      title: 'Mahmut Tuncer',
+                      ad: 'Mahmut',
+                      soyad: 'Tuncer',
+                      tel: '541 435 23 23',
+                      duration: '30',
+                      mail: 'tuncermahmut12@gmail.com',
                       imagePath:
-                          'http://gumusisitmecihazlari.com/upload/img/yazi_1592f4041dc576.jpg',
-                      description: 'asdasdadasd',
+                          'https://iyikigormusum.com/public/uploads/files/foto2(4).jpg',
+                      description:
+                          'Kulaklarımda yüzde 90 duyma kaybı olduğu için işitme cihazı almam gerekiyor fakat maddi durumum olmadığı için alamıyorum lütfen abna yardım edin.',
                     ),
                     Kisiler(
                       id: '10',
                       adres:
                           'denemedeneme mah deneme sok no deneme daire deneme',
-                      category: 'Görme',
-                      title: 'deneme',
-                      ad: 'asdasd',
-                      soyad: 'adas',
+                      category: 'Yürüme engelli',
+                      title: 'Eşref Gürbüz',
+                      ad: 'Eşref',
+                      soyad: 'Gürbüz',
                       tel: 'asda',
                       duration: '500',
                       mail: 'asdasd',
                       imagePath:
-                          'https://cdn.dsmcdn.com/ty175/product/media/images/20210914/19/129953074/142352341/1/1_org_zoom.jpg',
+                          'https://www.kastamonuilkhaber.com/images/haberler/2021/07/tekerlekli_sandalye_hayaline_kavusan_engelli_erdemin_yuzu_bayramda_guldu_h22566.jpg',
                       description: 'asdasdadasd',
                     ),
                   ],
@@ -113,31 +115,29 @@ class _fonPageState extends State<fonPage> {
                       id: '14',
                       adres:
                           'denemedeneme mah deneme sok no deneme daire deneme',
-                      category: 'Görme',
-                      title: 'We-Walk',
-                      ad: 'asd',
-                      soyad: 'asdas',
+                      category: 'kanser',
+                      title: 'Yavuz Bingöl',
+                      ad: 'Yavuz',
+                      soyad: 'Bingöl',
                       tel: 'asd',
                       mail: 'asda',
                       duration: '56.5',
                       description: 'asdasdadasd',
-                      imagePath:
-                          'https://www.zorlu.com.tr/akillihayat2030/assets/images/blog/wewalk_07_DC6A8296.jpg',
+                      imagePath: 'https://i.hizliresim.com/9p5ne1d.jfif',
                     ),
                     Kisiler(
                       id: '15',
-                      category: 'Ortapedi',
-                      title: 'Sandalye',
-                      ad: 'asdas',
-                      soyad: 'asdas',
+                      category: 'Yürüme engelli',
+                      title: 'Ufuk Demirel',
+                      ad: 'Ufuk',
+                      soyad: 'Demirel',
                       mail: 'asdasd',
                       adres:
                           'denemedeneme mah deneme sok no deneme daire deneme',
                       tel: 'asda',
                       duration: '900',
                       description: 'asdasdadasd',
-                      imagePath:
-                          'https://cdn2.lazimbana.com/product/2021/01/14/3079640/gmc-akulu-tekerlekli-sandalye-akulu-araba-elektrikli-sandalye-eng-1-1610629575.jpg',
+                      imagePath: 'https://i.hizliresim.com/98l2y58.jfif',
                     ),
                   ],
                 ),

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fest/view/profile_page.dart';
+import 'package:flutterr_fest/view/profile_page.dart';
 
 class myAppBar extends StatelessWidget with PreferredSizeWidget {
   final String text;
