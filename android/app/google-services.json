@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743627558840",
+    "project_id": "flutter-fest-34e53",
+    "storage_bucket": "flutter-fest-34e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743627558840:android:5aed59242e1cfb833e094d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743627558840-1danlc0mqp23r7dmmeq1q2rvdci9gc5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtskn903nLfbSqGbvfM1CGS33fwNRP6_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743627558840-1danlc0mqp23r7dmmeq1q2rvdci9gc5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
